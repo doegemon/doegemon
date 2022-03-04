@@ -2,7 +2,9 @@
 
 I'm Nicolas Doege
 
-Currently studying to become a Data Scientist
+Looking for opportunities that take me out of my confort zone and develop myself personally and professionally. 
+
+Studying to become a Data Scientist.
 
 ## Contact me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-doege/)
