@@ -1,6 +1,6 @@
 ## Hello, World!
 
-I'm Nicolas Doege
+I'm Nicolas Doege.
 
 Looking for opportunities that take me out of my confort zone and develop myself personally and professionally. 
 
