@@ -2,7 +2,7 @@
 
 I'm Nicolas Doege.
 
-Looking for opportunities that take me out of my confort zone and develop myself personally and professionally. 
+Looking for opportunities that take me out of my comfort zone and develop myself personally and professionally. 
 
 Studying to become a Data Scientist.
 
