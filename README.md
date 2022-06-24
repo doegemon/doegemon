@@ -1,10 +1,10 @@
 ## Hello, World!
 
-I'm Nicolas Doege.
+Me chamo Nicolas, e meu principal objetivo é trabalhar como Analista de Dados, elaborando análises através de levantamento de dados e ferramentas de programação, como Python e SQL, visando solucionar problemas de negócio e gerar insights para as empresas.
 
-Looking for opportunities that take me out of my comfort zone and develop myself personally and professionally. 
+Como profissional, priorizo a entrega rápida e a qualidade das análises baseadas em dados. Sou prático em solucionar problemas de negócio, mas sempre com embasamento teórico. 
 
-Studying to become a Data Analyst.
+Nesse ponto da minha carreira, me sinto confiante para trabalhar como Analista de Dados em qualquer empresa, gerando valor através da aplicação do meu conhecimento em Excel, Python, SQL, Estatística e Storytelling, construindo análises de dados que resolvem problemas de negócio da empresa. Minha experiência como Advogado no setor Tributário contribuirá na busca por soluções ‘fora da caixa’.
 
 ## Contact me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-doege/)
