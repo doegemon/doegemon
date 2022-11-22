@@ -1,6 +1,6 @@
 ## Hello, World!
 
-Me chamo Nicolas, e meu principal objetivo é trabalhar como Analista de Dados, elaborando análises através de levantamento de dados e ferramentas de programação, como Python e SQL, visando solucionar problemas de negócio e gerar insights para as empresas.
+Me chamo Nicolas, e meu principal objetivo é trabalhar como Analista ou Cientista de Dados, elaborando análises através de levantamento de dados e ferramentas de programação, como Python e SQL, visando solucionar problemas de negócio e gerar insights para as empresas.
 
 Como profissional, priorizo a entrega rápida e a qualidade das análises baseadas em dados. Sou prático em solucionar problemas de negócio, mas sempre com embasamento teórico. 
 
