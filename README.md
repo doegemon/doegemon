@@ -26,3 +26,10 @@ Projeto de ciência de dados utilizando Machine Learning com o objetivo de preve
 Foi desenvolvido utilizando Python, os algoritmos Random Forest e XGBoost e a visualização se dá através de um Bot no Telegram.
 
 Link para o repositório: https://github.com/doegemon/PA002_rossmann_sales_prediction
+
+### Classificação e Ordenação de clientes para Cross-Sell de novo produto
+Projeto de ciência de dados utilizando Machine Learning com o objetivo de ordenar uma lista de clientes pela propensão de adquirirem um novo produto de uma seguradora. O modelo adotado ordenou a lista de clientes de modo que os primeiros 20.000 clientes abrangem aproximadamente 70% dos clientes interessados em adquirir o novo produto, representando uma performance aproximadamente 3 vezes melhor do que oferecer o produto para clientes de forma aleatória (demonstrado através da Curva de Lift).
+
+Foi desenvolvido utilizando Python, os algoritmos KNN, Extra Trees, Random Forest, LGBM e XGBoost. A visualização da lista ordenada ocorre através da aplicação do modelo em uma planilha do Google Sheets.
+
+Link para o repositório: https://github.com/doegemon/PA003_health_insurance_cross_sell
