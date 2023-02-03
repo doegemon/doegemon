@@ -4,7 +4,7 @@ Me chamo Nicolas, e meu principal objetivo é trabalhar como Analista ou Cientis
 
 Como profissional, priorizo a entrega rápida e a qualidade das análises baseadas em dados. Sou prático em solucionar problemas de negócio, mas sempre com embasamento teórico. 
 
-Nesse ponto da minha carreira, me sinto confiante para trabalhar como Analista ou Cientista de Dados em qualquer empresa, gerando valor através da aplicação do meu conhecimento em Excel, Python, SQL, Estatística e Storytelling, construindo análises de dados que resolvem problemas de negócio da empresa. Minha experiência como Advogado no setor Tributário contribuirá na busca por soluções ‘fora da caixa’.
+Nesse ponto da minha carreira, me sinto confiante para trabalhar como Analista ou Cientista de Dados em qualquer empresa, gerando valor através da aplicação do meu conhecimento em Excel, Python, SQL, Estatística e Storytelling, construindo análises de dados que resolvem problemas de negócio da empresa.
 
 ## Entre em Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-doege/)
