@@ -1,35 +1,33 @@
 ## Hello, World!
 
-Me chamo Nicolas, e meu principal objetivo é trabalhar como Analista ou Cientista de Dados, elaborando análises através de levantamento de dados e ferramentas de programação, como Python e SQL, visando solucionar problemas de negócio e gerar insights para as empresas.
+My name is Nicolas, and I currently work as a Data Analyst/Scientist, developing analyses through data collection and programming tools such as Python and SQL, always aiming to solve business problems and generate insights for the data and business team. 
 
-Como profissional, priorizo a entrega rápida e a qualidade das análises baseadas em dados. Sou prático em solucionar problemas de negócio, mas sempre com embasamento teórico. 
+As a professional, I prioritize fast delivery and quality data-based analysis. I am practical in solving business problems, but always with a theoretical basis.
 
-Nesse ponto da minha carreira, me sinto confiante para trabalhar como Analista ou Cientista de Dados em qualquer empresa, gerando valor através da aplicação do meu conhecimento em Excel, Python, SQL, Estatística e Storytelling, construindo análises de dados que resolvem problemas de negócio da empresa.
-
-## Entre em Contato:
+## Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-doege/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasdoege/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doegemon)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasldoege@gmail.com)
 
-## Principais Projetos:
-### Análise de Imóveis em King County, USA
-Projeto de análise de dados sobre imóveis disponíveis para venda para integrar o portfólio de imóveis de uma empresa fictícia, indicando quais imóveis devem ser comprados e trazendo os dados financeiros (investimento máximo de US$ 4.14B, retorno máximo de US$ 5.38B e lucro máximo de US$ 1.24B).
+## Main Projects:
+### Real Estate Analysis in King County, USA
+Project to analyze data on properties available for sale to integrate the real estate portfolio of a fictitious company, indicating which properties should be purchased and providing financial data (maximum investment of US$ 4.14B, maximum return of US$ 5.38B and maximum profit of US$ 1.24B).
 
-Foi desenvolvido utilizando Python, e o dashboard foi montado no Streamlit.
+It was developed using Python, and the dashboard was assembled in Streamlit.
 
-Link para o repositório: https://github.com/doegemon/PA001_house_rocket_insights
+Link to the repository: https://github.com/doegemon/PA001_house_rocket_insights
 
-### Previsão de Vendas da rede de farmácias Rossmann
-Projeto de ciência de dados utilizando Machine Learning com o objetivo de prever o valor das vendas das farmácias da Rossmann pelas próximas 06 semanas. O modelo adotado previu um cenário-base com uma receita bruta consolidada de € 281.1M para as próximas 06 semanas. No pior cenário, a receita bruta consolidada será de € 280.1M, e no melhor cenário, € 282M. 
+### Sales forecast for the Rossmann pharmacy chain
+Data science project using Machine Learning with the aim of predicting the value of sales at Rossmann pharmacies over the next 6 weeks. The model adopted predicted a baseline scenario with consolidated gross revenue of €281.1M for the next 6 weeks. In the worst-case scenario, consolidated gross revenue will be €280.1M, and in the best-case scenario, €282M. 
 
-Foi desenvolvido utilizando Python, os algoritmos Random Forest e XGBoost e a visualização se dá através de um Bot no Telegram.
+It was developed using Python, the Random Forest and XGBoost algorithms and visualization takes place via a bot on Telegram.
 
-Link para o repositório: https://github.com/doegemon/PA002_rossmann_sales_prediction
+Link to the repository: https://github.com/doegemon/PA002_rossmann_sales_prediction
 
-### Classificação e Ordenação de clientes para Cross-Sell de novo produto
-Projeto de ciência de dados utilizando Machine Learning com o objetivo de ordenar uma lista de clientes pela propensão de adquirirem um novo produto de uma seguradora. O modelo adotado ordenou a lista de clientes de modo que os primeiros 20.000 clientes abrangem aproximadamente 70% dos clientes interessados em adquirir o novo produto, representando uma performance aproximadamente 3 vezes melhor do que oferecer o produto para clientes de forma aleatória (demonstrado através da Curva de Lift).
+### Sorting and classifying customers to cross-sell a new product
+Data science project using Machine Learning with the aim of sorting a list of customers by their propensity to purchase a new product from an insurance company. The model adopted ordered the customer list in such a way that the first 20,000 customers comprise approximately 70% of the customers interested in purchasing the new product, representing a performance approximately 3 times better than offering the product to customers at random (demonstrated by the Lift Curve).
 
-Foi desenvolvido utilizando Python, os algoritmos KNN, Extra Trees, Random Forest, LGBM e XGBoost. A visualização da lista ordenada ocorre através da aplicação do modelo em uma planilha do Google Sheets.
+It was developed using Python, KNN, Extra Trees, Random Forest, LGBM and XGBoost algorithms. The ordered list is visualized by applying the model to a Google Sheets spreadsheet.
 
-Link para o repositório: https://github.com/doegemon/PA003_health_insurance_cross_sell
+Link to the repository: https://github.com/doegemon/PA003_health_insurance_cross_sell
