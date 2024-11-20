@@ -1,6 +1,6 @@
 ## Hello, World!
 
-My name is Nicolas, and I currently work as a Data Analyst/Scientist, developing analyses through data collection and programming tools such as Python and SQL, always aiming to solve business problems and generate insights for the data and business team. 
+My name is Nicolas, and I currently work as a Data Analyst/Analytics Engineer, developing analyses through data collection and programming tools such as Python and SQL, always aiming to solve business problems and generate insights for the data and business team. 
 
 As a professional, I prioritize fast delivery and quality data-based analysis. I am practical in solving business problems, but always with a theoretical basis.
 
