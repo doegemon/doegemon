@@ -1,6 +1,6 @@
 ## Hello, World!
 
-My name is Nicolas, and I currently work as a Data Analyst/Analytics Engineer, developing analyses through data collection and programming tools such as Python and SQL, always aiming to solve business problems and generate insights for the data and business team. 
+My name is Nicolas, and I currently work as a Analytics Engineer, developing analyses through data collection and programming tools such as Python and SQL, always aiming to solve business problems and generate insights for the data and business team. 
 
 As a professional, I prioritize fast delivery and quality data-based analysis. I am practical in solving business problems, but always with a theoretical basis.
 
@@ -11,6 +11,16 @@ As a professional, I prioritize fast delivery and quality data-based analysis. I
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasldoege@gmail.com)
 
 ## Main Projects:
+### CRUD + API - Product Catalog Management
+Basic CRUD project to test my knowledge of Python, SQL, APIs and Docker, aiming to modernize the way a small company manages their product catalog, by having a website or platform where the user can view, add, delete or update a product.
+
+The objectives of this project were:
+- Structure the database backend to support these operations, using Python, SQLAlchemy, Pydantic and FastAPI.
+- Create a frontend application to perform operations on the database, using Streamlit and Requests
+- Configure the Docker files to guarantee the integrity of the solution/application on other devices and operating systems.
+
+Link to the repository: https://github.com/doegemon/crud_api_products
+
 ### Real Estate Analysis in King County, USA
 Project to analyze data on properties available for sale to integrate the real estate portfolio of a fictitious company, indicating which properties should be purchased and providing financial data (maximum investment of US$ 4.14B, maximum return of US$ 5.38B and maximum profit of US$ 1.24B).
 
